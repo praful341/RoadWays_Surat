@@ -1,0 +1,11 @@
+[LOGIN]
+ServerHostName=DESKTOP-T5J69DS
+DBName=RoadWays_Surat
+ServerUserName=sa
+ServerPassWord=admin@123
+
+<!--[LOGIN]
+ServerHostName = sql7002.site4now.net
+DBName = DB_A4B382_roadwayssurat
+ServerUserName= DB_A4B382_roadwayssurat_admin
+ServerPassWord= Ganesh@4->
