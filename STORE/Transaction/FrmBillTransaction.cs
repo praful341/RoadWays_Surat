@@ -15,7 +15,7 @@ using System.Windows.Forms;
 namespace STORE.Transaction
 {
     public partial class FrmBillTransaction : DevExpress.XtraEditors.XtraForm
-    {
+    { 
         BLL.FormEvents objBOFormEvents = new BLL.FormEvents();
         BLL.Validation Val = new BLL.Validation();
         ItemPurchase ObjItemPurchase = new ItemPurchase();
